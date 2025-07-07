@@ -1,4 +1,4 @@
-## 📊 OTT Dashboard – Netflix | Amazon Prime | Hotstar
+# 📊 OTT Dashboard – Netflix | Amazon Prime | Hotstar
 An interactive Power BI dashboard that provides in-depth insights into OTT platforms such as Netflix, Amazon Prime Video, and Hotstar. This project helps analyze content trends, user behavior, genre performance, and platform comparisons.
 
 ## 📌 Overview
